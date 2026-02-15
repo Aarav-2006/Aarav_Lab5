@@ -41,6 +41,8 @@ Step 5: Template Classification
 3. Used a trained K-Means model to predict cluster label
 4. Visualised template position (violet marker) in feature space
 
+![image alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/bc30f2c8aec3e32bd5b9e160f445e18bc6f4db73/image_shashi%20.png)
+
    
    
 
