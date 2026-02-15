@@ -27,6 +27,13 @@ Step 3: K-means clustering
 2.  Clustered faces based on Hue-Saturation features
 3.  Computed cluster centroids
 
+![image alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/ec96f47970e20e8159a06a62e3b6794e62e1486b/clustering.png)
+
+Step 4: Visualisation
+1. Created scatter plots showing Cluster 0 (green), Cluster 1 (blue), and centroids (X markers)
+2. Color-coded clusters for clear distinction
+
+   
    
 
    
