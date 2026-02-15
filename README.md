@@ -17,6 +17,18 @@ Step 1: Face Detection
 
 ![image_alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/dd58684281ae32400952d8e22fe4437ca0ea2fc4/face_detection.png)
 
+Step 2:Feature Extraction
+1. Converted image to HSV colour space
+2.  Extracted mean Hue and Saturation values from each detected face region
+3.  Created feature vectors [hue, saturation] for clustering
+
+Step 3: K-means clustering
+1.  Applied K-Means algorithm with n_clusters=2, random_state=42
+2.  Clustered faces based on Hue-Saturation features
+3.  Computed cluster centroids
+
+   
+
    
 
 
