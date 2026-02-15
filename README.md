@@ -42,6 +42,7 @@ Step 5: Template Classification
 4. Visualised template position (violet marker) in feature space
 
 ![image alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/bc30f2c8aec3e32bd5b9e160f445e18bc6f4db73/image_shashi%20.png)
+
 ![image alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/9be2208e3358b10bd9853964b07b0e0af8826ba0/image_classfication.png)
 
 
