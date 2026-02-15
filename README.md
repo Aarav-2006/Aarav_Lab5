@@ -31,7 +31,15 @@ Step 3: K-means clustering
 
 Step 4: Visualisation
 1. Created scatter plots showing Cluster 0 (green), Cluster 1 (blue), and centroids (X markers)
-2. Color-coded clusters for clear distinction
+2. Colour-coded clusters for clear distinction
+
+![image alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/c2b054423b94dd1ae1f98c3762138b7e0d6b4f7d/scatterplot_centroids.png)
+
+Step 5: Template Classification
+1. Loaded template image (Dr_Shashi_Tharoor.jpg)
+2. Extracted Hue-Saturation features from template face
+3. Used a trained K-Means model to predict cluster label
+4. Visualised template position (violet marker) in feature space
 
    
    
