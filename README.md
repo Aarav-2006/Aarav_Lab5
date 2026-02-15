@@ -15,5 +15,9 @@ Step 1: Face Detection
 3. Applied Haar Cascade Classifier with parameters
 4. Drew red bounding boxes around detected faces
 
+![image_alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/dd58684281ae32400952d8e22fe4437ca0ea2fc4/face_detection.png)
+
+   
+
 
 
