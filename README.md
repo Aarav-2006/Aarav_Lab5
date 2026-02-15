@@ -42,6 +42,21 @@ Step 5: Template Classification
 4. Visualised template position (violet marker) in feature space
 
 ![image alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/bc30f2c8aec3e32bd5b9e160f445e18bc6f4db73/image_shashi%20.png)
+![image alt](https://github.com/Aarav-2006/Aarav_Lab5/blob/9be2208e3358b10bd9853964b07b0e0af8826ba0/image_classfication.png)
+
+
+KEY FINDINGS:
+1. Total Faces Detected: 30 faces
+2. Cluster Distribution: Cluster 0 (12 faces), Cluster 1 (18 faces)
+3. Centroids: Cluster 0 (Hue: 40, Saturation: 117), Cluster 1 (Hue: 70, Saturation: 105)
+4. Template Classification: Dr Shashi Tharoor classified into Cluster 0
+5. Observation: Faces with similar skin tones and lighting conditions grouped together effectively
+
+CONCLUSION:
+1. Haar Cascade successfully detected 30 frontal faces with appropriate parameters
+2. K-Means clustering effectively separated faces into 2 groups based on Hue-Saturation features
+3. Template image (Dr Shashi Tharoor) successfully classified into the correct cluster
+4. Colour-based clustering is simple yet effective for grouping faces with similar characteristics
 
    
    
